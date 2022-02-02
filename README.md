@@ -17,6 +17,7 @@ svm_file_2
 - load data csv.file
 - Featue extraction analysis -- connect class 
 - preprocessing for svm 
+using svm_file function -- SVM_support_vector_machine, Graph_Total_Train_Test 
 
 
 
