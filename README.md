@@ -26,3 +26,6 @@ Statistical Analysis
 - correlation heatmap
 - boxplot
 - histogram_pdf 
+![image](https://user-images.githubusercontent.com/95017140/152134187-0ce6dfe9-f2a4-4d63-b9fe-424c02905be1.png)
+![image](https://user-images.githubusercontent.com/95017140/152134201-d5fa420d-6812-4aaf-a4f6-3e591a3bc2d1.png)
+![image](https://user-images.githubusercontent.com/95017140/152134213-5b0a04db-fb9f-4668-a8ce-eb7e3dd32411.png)
