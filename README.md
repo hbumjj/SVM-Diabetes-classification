@@ -1,34 +1,46 @@
-# SVM-project
-svm project - Exercise &amp; Diabetes classify 
+# SVM Project
 
-SVM Project in Hanyang university
+## Overview
 
-this code didn't check it 
+This project implements Support Vector Machine (SVM) classification for exercise and diabetes data analysis. It was developed as part of a course at Hanyang University.
 
-svm_file
+## Project Structure
 
-- load data txt.file 
-- plotting train, test, total data 
-- svm --> optimized params (gamma, C).... score using pandas 
+The project consists of three main components:
 
+1. `svm-1.py`
+2. `svm-2.py`
+3. `visualization.py`
 
-svm_file_2
+### svm-1.py
 
-- load data csv.file
-- Featue extraction analysis -- connect class 
-- preprocessing for svm 
-using svm_file function -- SVM_support_vector_machine, Graph_Total_Train_Test 
+This file contains functions for:
 
+- Loading data from text files
+- Plotting train, test, and total data
+- Implementing SVM with optimized parameters (gamma, C)
+- Displaying scores using pandas
 
+### svm-2.py
 
-Statistical Analysis 
+This file includes:
 
-- correlation heatmap
-- boxplot
-- histogram_pdf 
+- Loading data from CSV files
+- Feature extraction analysis
+- Data preprocessing for SVM
+- Utilizing functions from `svm-1.py` (SVM_support_vector_machine, Graph_Total_Train_Test)
 
+### Statistical_Analysis.py
 
+This file provides statistical analysis tools:
 
-![image](https://user-images.githubusercontent.com/95017140/152134187-0ce6dfe9-f2a4-4d63-b9fe-424c02905be1.png)
-![image](https://user-images.githubusercontent.com/95017140/152134201-d5fa420d-6812-4aaf-a4f6-3e591a3bc2d1.png)
-![image](https://user-images.githubusercontent.com/95017140/152134213-5b0a04db-fb9f-4668-a8ce-eb7e3dd32411.png)
+- Correlation heatmap
+- Boxplot visualization
+- Histogram and probability density function (PDF) plots
+
+## Usage
+
+To run the project:
+
+1. Ensure all required dependencies are installed
+2. Execute the main script (not provided in the description)
